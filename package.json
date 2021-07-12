@@ -2,7 +2,7 @@
   "name": "markdown-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://denisovspb.github.io/Markdown-previewer",
+  "homepage": "http://denisovspb.github.io/Markdown-Previewer",
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@testing-library/jest-dom": "^5.14.1",
